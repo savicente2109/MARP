@@ -14,4 +14,4 @@ Problemas relacionados con los siguientes temas:
 
 ---
 
-Los ficheros de cabecera con la implementación de las estructuras de datos se encontraban disponibles en el juez automático y son propiedad de los profesores de la asignatura, no se incluyen en este repossitorio.
+Los ficheros de cabecera con la implementación de las estructuras de datos se encontraban disponibles en el juez automático y son propiedad de los profesores de las asignaturas, no se incluyen en este repossitorio.
